@@ -1,10 +1,9 @@
-{
-  "name":"Zero to Deploy",
-  "sections":[
-    {"section":"title"},
-    {"section":"agenda"},
-    {"section":"rails"},
-    {"section":"git"},
-    {"section":"heroku"}
-  ]
-}
+{"name":"Zero to Deploy","sections":[
+  {"section":"notes"},
+  {"section":"title"},
+  {"section":"agenda"},
+  {"section":"redcar"},
+  {"section":"rails"},
+  {"section":"git"},
+  {"section":"heroku"}
+]
