@@ -1,3 +1,3 @@
 !SLIDE 
-# Title here #
+# Install Ruby #
 
