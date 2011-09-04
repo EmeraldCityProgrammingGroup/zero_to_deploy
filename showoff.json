@@ -1,8 +1,10 @@
 {"name":"Zero to Deploy","sections":[
-  {"section":"notes"},
-  {"section":"title"},
-  {"section":"agenda"},
-  {"section":"redcar"},
+  {"section":"01-notes"},
+  {"section":"02-title"},
+  {"section":"03-agenda"},
+  {"section":"04-installruby"}
+  {"section":"05-installgit"}
+  {"section":"06-setupredcar"},
   {"section":"rails"},
   {"section":"git"},
   {"section":"heroku"}
