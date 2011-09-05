@@ -2,10 +2,11 @@
   {"section":"01-notes"},
   {"section":"02-title"},
   {"section":"03-agenda"},
-  {"section":"04-installruby"}
-  {"section":"05-installgit"}
+  {"section":"04-installruby"},
+  {"section":"05-installgit"},
   {"section":"06-setupredcar"},
-  {"section":"rails"},
-  {"section":"git"},
-  {"section":"heroku"}
+  {"section":"07-createrailsapp"},
+  {"section":"08-committogit"},
+  {"section":"09-pushtogithub"},
+  {"section":"10-deploytoheroku"}
 ]}

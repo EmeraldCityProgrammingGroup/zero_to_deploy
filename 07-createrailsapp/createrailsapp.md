@@ -7,14 +7,4 @@
 
 
 
-<!SLIDE code>
-
-    @@@ Ruby
-    require 'test'
-
-    class Pain 
-      def hello
-        puts 'hello world'
-      end
-    end
 

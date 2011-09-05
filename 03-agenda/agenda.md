@@ -15,18 +15,9 @@
 
 !SLIDE bullets
 #Installation#
-* install ruby
-+ install rvm
-+ install rubies 
-* install git
-* install redcar
-* install heroku
-
-!SLIDE bullets
-#Agenda(cont.)#
-* install rails
-* create an app
-* commit app to source controll
-* deploy app to heroku
+##Operating Systems##
+* Windows: XP or 7 (Vista should work like Windows 7)
+* Max OS/X: Snow Leopard or Lion
+* Linux: Ubuntu desktop
 
 

@@ -1,20 +1,31 @@
 !SLIDE 
 # Redcar #
+* Development environment
+* Very similar to TextMate
 
 !SLIDE bullets
 #Features#
 * Syntax highlighting 
 * Project browser
 * Cross platform support
-* written in ruby
+* Written in ruby
+
+!SLIDE bullets
+#Why?#
+* Show what's happening "under the covers"
+* Better idea how to solve problems when using an IDE
+* For other projects, RubyMine by JetBrains is a really good IDE
 
 !SLIDE bullets
 
 #Installing#
-* Install Java
-* Install Ruby
-* Install Redcar
-* redcar install
+* Install Java 6 Runtime Environment
+* Ubuntu Linux: 
+    sudo apt-get install xulrunner-1.9.2-dev
+
+Then
+    gem install redcar
+    redcar install
 
 
 
