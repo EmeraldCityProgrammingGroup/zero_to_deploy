@@ -25,3 +25,14 @@ Rakefile          Utility tasks available via the rake command
 Gemfile           Gem requirements for this app
 config.ru         A configuration file for Rack middleware
 .gitignore        Patterns for files that should be ignored by Git
+
+
+<!SLIDE>
+# Architecture of the Rails application
+
+<!SLIDE>
+# Run the Rails application
+    $ rails server
+    
+# Navigate to the following URL:
+    http://localhost:3000
