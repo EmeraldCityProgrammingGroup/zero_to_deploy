@@ -11,7 +11,7 @@
     $ heroku create
     
 !SLIDE commandline
-# 
+# Deploy to Heroku #
 ## Execute the following commands: ##
     $ git push heroku master 
     $ heroku open

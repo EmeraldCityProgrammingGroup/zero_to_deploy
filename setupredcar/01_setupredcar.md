@@ -20,10 +20,6 @@
 
 #Installing#
 * Install Java 6 Runtime Environment
-* Ubuntu Linux: 
-
-@@@ bash    
-$ sudo apt-get install xulrunner-1.9.2-dev
 
 * Then
 

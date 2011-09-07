@@ -7,6 +7,7 @@
 # Agenda - Chapter 1 - From zero to deploy #
 * Install & set up Ruby & Rails
 * Install & set up Git for source control
+* Set up Firefox for web development
 * Set up development environment
 * Create a demo rails application
 * Commit our project to source control

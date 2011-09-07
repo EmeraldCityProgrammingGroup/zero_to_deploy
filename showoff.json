@@ -4,6 +4,7 @@
   {"section":"agenda"},
   {"section":"installruby"},
   {"section":"installgit"},
+  {"section":"setupfirefox"},
   {"section":"setupredcar"},
   {"section":"createrailsapp"},
   {"section":"committogit"},
