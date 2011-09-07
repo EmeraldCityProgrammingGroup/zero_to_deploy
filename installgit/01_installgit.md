@@ -1,8 +1,13 @@
 !SLIDE commandline
 # Install Git #
+
 ## Windows: installed with Rails installer ##
-## OS/X: Snow Leopard & Lion have a reasonably recent installation ##
-## Linux: 
+
+## OS/X: Git now comes with XCode 4, otherwise ##
+###    Install Homebrew - Instructions at https://github.com/mxcl/homebrew/wiki/installation ###
+    $ brew install git
+
+## Ubuntu Linux: 
     $ sudo apt-get install git-core
 
 ## First-time setup
