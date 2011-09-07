@@ -7,7 +7,10 @@
     $ cd rails_projects 
     $ rails new first_app
     
-<!SLIDE>
+<!SLIDE code>
+# Architecture of the 
+# Rails application
+
 File/Directory    Purpose
 app/              Core application (app) code, including models, views, controllers, and helpers
 config/           Application configuration
@@ -27,8 +30,6 @@ config.ru         A configuration file for Rack middleware
 .gitignore        Patterns for files that should be ignored by Git
 
 
-<!SLIDE>
-# Architecture of the Rails application
 
 <!SLIDE>
 # Run the Rails application

@@ -16,13 +16,17 @@
 * Better idea how to solve problems when using an IDE
 * For other projects, RubyMine by JetBrains is a really good IDE
 
-!SLIDE bullets commandline
+!SLIDE bullets 
 
 #Installing#
 * Install Java 6 Runtime Environment
 * Ubuntu Linux: 
-    sudo apt-get install xulrunner-1.9.2-dev
 
-Then
-    $ gem install redcar
-    $ redcar install
+@@@ bash    
+$ sudo apt-get install xulrunner-1.9.2-dev
+
+* Then
+
+@@@ bash
+$ gem install redcar
+$ redcar install
