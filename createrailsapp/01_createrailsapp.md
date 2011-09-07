@@ -1,11 +1,14 @@
 <!SLIDE> 
-# First, a Touch of Rails #
+# First, a touch of Rails #
 
 <!SLIDE command>
 # Create the project
     $ mkdir rails_projects 
     $ cd rails_projects 
     $ rails new first_app
+
+<!SLIDE full-page>
+![rails mvc](rails_mvc.png)
     
 <!SLIDE code>
 # Architecture of the 
@@ -29,7 +32,10 @@ Gemfile           Gem requirements for this app
 config.ru         A configuration file for Rack middleware
 .gitignore        Patterns for files that should be ignored by Git
 
-
+<!SLIDE code>
+# Install dependent Gems #
+## Project dependencies stored in Gemfile ##
+    $ bundle install
 
 <!SLIDE>
 # Run the Rails application
