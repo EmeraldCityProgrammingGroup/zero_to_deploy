@@ -16,7 +16,7 @@
 # Heroku - Set up #
     $ gem install heroku
     $ heroku keys:add
-    $ heroku create [ --stack bamboo-ree-1.8.7 ]
+    $ heroku create
     
 !SLIDE commandline
 # Deploy to Heroku #
