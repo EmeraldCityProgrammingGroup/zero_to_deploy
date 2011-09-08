@@ -1,5 +1,13 @@
+!SLIDE bullets
+# Install Git - What is Git?#
+
+* Distributed source control system
+* The entire source repository and all history stored in each instance
+* Send copies of all changes to other instances of the repository
+* Request copies of all changes made by other instances of the repository
+
 !SLIDE commandline
-# Install Git #
+# Install Git - Setup #
 
 ## Windows: installed with Rails installer ##
 
