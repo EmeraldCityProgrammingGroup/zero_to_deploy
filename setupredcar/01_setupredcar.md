@@ -1,28 +1,27 @@
-!SLIDE 
+!SLIDE bullets
 # Redcar #
 * Development environment
 * Very similar to TextMate
 
 !SLIDE bullets
-#Features#
+# Redcar - Features #
 * Syntax highlighting 
 * Project browser
 * Cross platform support
 * Written in ruby
 
 !SLIDE bullets
-#Why?#
+# Redcar - Why? #
 * Show what's happening "under the covers"
 * Better idea how to solve problems when using an IDE
 * For other projects, RubyMine by JetBrains is a really good IDE
 
-!SLIDE bullets 
+!SLIDE bullets
+# Redcar - Prerequisites #
+* Java 6 Runtime Environment
 
-#Installing#
-* Install Java 6 Runtime Environment
+!SLIDE commandline incremental
+# Redcar - Installing #
 
-* Then
-
-@@@ bash
-$ gem install redcar
-$ redcar install
+    $ gem install redcar
+    $ redcar install

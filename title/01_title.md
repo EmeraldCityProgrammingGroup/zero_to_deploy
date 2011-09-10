@@ -4,8 +4,8 @@
 
 !SLIDE bullets
 #Teachers#
-* Alan Hecht(@AlanGHecht)
-* Allan Davis(@cajun_code)
+* Alan Hecht (@AlanGHecht)
+* Allan Davis (@cajun_code)
 
 
 

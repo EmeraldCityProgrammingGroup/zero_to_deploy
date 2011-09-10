@@ -1,20 +1,20 @@
-!SLIDE 
-# Install Ruby #
-## Windows: installed with Rails Installer
-## Linux & OS/X: install Ruby Version Manager (rvm)
-
-!SLIDE 
+!SLIDE bullets
 # Install Ruby - Prerequisites #
-## Windows: none ##
-## Linux - install development packages ## 
-## OS/X - XCode 3.x or 4.x ##
+* Windows: Install Rails Installer from http://railsinstaller.org 
+* Linux: Install development packages 
+* OS/X: XCode 3.x or 4.x
 
-!SLIDE
+!SLIDE bullets
+# Install Ruby #
+* Windows: installed with Rails Installer
+* Linux & OS/X: install Ruby Version Manager (rvm)
+
+!SLIDE bullets
 # Ruby Version Manager #
-## For Linux & OS/X ##
-## Easily switch between versions of Ruby ##
-## On Linux, people have issues with using Ruby via package manager ## 
-## On OS/X, system version is 1.8.7 ##
+* For Linux & OS/X
+* Easily switch between versions of Ruby
+* On Linux, people have issues with using Ruby via package manager
+* On OS/X, system version is 1.8.7
 
 !SLIDE code
 # RVM - Installation #
