@@ -17,16 +17,16 @@
 * Getting started with Rails 3.0 on Heroku - http://devcenter.heroku.com/articles/rails3
 * Getting started with Rails on Windows - http://devcenter.heroku.com/articles/windows
 
-!SLIDE code
+!SLIDE commandline
 # Heroku - Set up #
 
     $ gem install heroku
     $ heroku keys:add
     $ heroku create
     
-!SLIDE code bullets
+!SLIDE commandline bullets
 # Push to Heroku via Git #
 
-* Execute the following commands:
+## Execute the following commands: ##
     $ git push heroku master 
     $ heroku open

@@ -12,7 +12,7 @@
 
 !SLIDE bullets
 # From Zero to Deploy #
-* Create a demo rails application
+* Create a demo Rails application
 * Commit our project to source control
 * Push our code up to GitHub
 * Deploy the application to production using Heroku 

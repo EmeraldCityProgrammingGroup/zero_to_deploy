@@ -14,7 +14,7 @@
 * Set up instructions at http://help.github.com/set-up-git-redirect
 * Need to set up SSH key (demo)
 
-!SLIDE smaller code
+!SLIDE smaller commandline
 # Push to GitHub #
 ## Commands ##
 

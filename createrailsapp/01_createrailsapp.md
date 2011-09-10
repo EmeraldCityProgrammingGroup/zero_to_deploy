@@ -1,7 +1,7 @@
 <!SLIDE> 
 # A touch of Rails #
 
-<!SLIDE code>
+<!SLIDE commandline>
 # Create the project
     $ mkdir rails_projects 
     $ cd rails_projects 
@@ -38,12 +38,12 @@ config.ru         A configuration file for Rack middleware
 * Gemfile used to manage Ruby Gem dependencies
 * Add Ruby sqlite3 Gem to the application
 
-<!SLIDE code bullets>
+<!SLIDE commandline bullets>
 # Install dependent Gems #
 * Project dependencies stored in Gemfile
     $ bundle install
 
-<!SLIDE code bullets>
+<!SLIDE commandline bullets>
 # Run the application
     $ rails server
     

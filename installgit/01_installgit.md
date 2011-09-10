@@ -11,18 +11,18 @@
 
 * Installed with Rails Installer
 
-!SLIDE bullets code
+!SLIDE bullets commandline
 # Install Git - OS/X #
 
 * Git now comes with XCode 4
 * Otherwise:
     $ brew install git
 
-!SLIDE code
+!SLIDE commandline
 # Install Git - Linux #
     $ sudo apt-get install git-core
 
-!SLIDE code smaller
+!SLIDE commandline
 # Install Git #
 # First-time setup #
     $ git config --global user.name "Your Name"
