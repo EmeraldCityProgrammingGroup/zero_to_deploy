@@ -6,18 +6,24 @@
 * Send copies of all changes to other instances of the repository
 * Request copies of all changes made by other instances of the repository
 
-!SLIDE commandline
-# Install Git - Setup #
+!SLIDE bullets
+# Install Git - Windows #
 
-## Windows: installed with Rails installer ##
+* Installed with Rails Installer
 
-## OS/X: Git now comes with XCode 4, otherwise ##
-###    Install Homebrew - Instructions at https://github.com/mxcl/homebrew/wiki/installation ###
+!SLIDE bullets code
+# Install Git - OS/X #
+
+* Git now comes with XCode 4
+* Otherwise:
     $ brew install git
 
-## Ubuntu Linux: 
+!SLIDE code
+# Install Git - Linux #
     $ sudo apt-get install git-core
 
-## First-time setup
+!SLIDE code smaller
+# Install Git #
+# First-time setup #
     $ git config --global user.name "Your Name"
     $ git config --global user.email youremail@email.com
