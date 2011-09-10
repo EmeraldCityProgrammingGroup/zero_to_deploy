@@ -2,7 +2,7 @@
 # Install Ruby - Prerequisites #
 * Windows: Install Rails Installer from http://railsinstaller.org 
 * Linux: Install development packages (see instruction repo.) 
-* OS/X: XCode 4.x or XCode 3.x & Homebrew
+* OS/X: XCode & Homebrew
 
 !SLIDE bullets
 # Install Ruby #
@@ -25,7 +25,7 @@
     $ rvm --create use 1.9.2@rails3tutorial
     $ rvm --default use 1.9.2@rails3tutorial
 
-!SLIDE commandline bullets smaller
+!SLIDE bullets
 # Install Rails - Windows #
 
 * Rails Installer installs Rails 3.1
@@ -33,6 +33,10 @@
 * HTML, CSS, & JavaScript files in a different directory
 * Everything else learned still applies to Rails 3.1
 * Replace Rails 3.1 w/ Rails 3.0
+
+!SLIDE commandline 
+# Install Rails - Windows #
+
     $ gem uninstall rails
     $ gem install rails -v=3.0.10
 

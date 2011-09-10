@@ -38,7 +38,7 @@ config.ru         A configuration file for Rack middleware
 * Gemfile used to manage Ruby Gem dependencies
 * Add Ruby sqlite3 Gem to the application
 
-<!SLIDE commandline bullets>
+<!SLIDE code bullets>
 # Install dependent Gems #
 * Project dependencies stored in Gemfile
     $ bundle install

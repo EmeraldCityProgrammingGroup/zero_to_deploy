@@ -11,7 +11,7 @@
 
 * Installed with Rails Installer
 
-!SLIDE bullets commandline
+!SLIDE bullets code
 # Install Git - OS/X #
 
 * Git now comes with XCode 4
