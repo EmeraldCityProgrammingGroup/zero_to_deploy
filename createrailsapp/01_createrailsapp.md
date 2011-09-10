@@ -1,18 +1,14 @@
 <!SLIDE> 
-# First, a touch of Rails #
+# A touch of Rails #
 
-<!SLIDE command>
+<!SLIDE code>
 # Create the project
     $ mkdir rails_projects 
     $ cd rails_projects 
     $ rails new first_app
-
-<!SLIDE full-page>
-![rails mvc](rails_mvc.png)
     
 <!SLIDE code>
-# Architecture of the 
-# Rails application
+# Application Architecture #
 
 File/Directory    Purpose
 app/              Core application (app) code, including models, views, controllers, and helpers
@@ -32,14 +28,22 @@ Gemfile           Gem requirements for this app
 config.ru         A configuration file for Rack middleware
 .gitignore        Patterns for files that should be ignored by Git
 
-<!SLIDE code>
+<!SLIDE bullets>
+# Ruby Gems #
+
+* Used to package & distribute Ruby code
+* Like Java jar files or C# assemblies
+* Gemfile used to manage Ruby Gem dependencies
+* Add Ruby sqlite3 Gem to the application
+
+<!SLIDE code bullets>
 # Install dependent Gems #
-## Project dependencies stored in Gemfile ##
+* Project dependencies stored in Gemfile
     $ bundle install
 
-<!SLIDE>
-# Run the Rails application
+<!SLIDE code bullets>
+# Run the application
     $ rails server
     
-# Navigate to the following URL:
+* Navigate to the following URL:
     http://localhost:3000

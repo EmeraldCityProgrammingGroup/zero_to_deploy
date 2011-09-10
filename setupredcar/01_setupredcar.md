@@ -8,7 +8,7 @@
 * Syntax highlighting 
 * Project browser
 * Cross platform support
-* Written in ruby
+* Written in Ruby
 
 !SLIDE bullets
 # Redcar - Why? #
@@ -20,7 +20,7 @@
 # Redcar - Prerequisites #
 * Java 6 Runtime Environment
 
-!SLIDE commandline incremental
+!SLIDE commandline
 # Redcar - Installing #
 
     $ gem install redcar
