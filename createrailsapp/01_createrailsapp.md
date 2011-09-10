@@ -6,6 +6,8 @@
     $ mkdir rails_projects 
     $ cd rails_projects 
     $ rails new first_app
+    $ cd first_app
+    $ redcar .
     
 <!SLIDE code>
 # Application Architecture #

@@ -1,4 +1,7 @@
-!SLIDE 
+!SLIDE
+# Commit to Source Control #
+
+!SLIDE bullets code
 # Commit to Git #
 * Add the files to source control
     $ git init
